@@ -10,14 +10,15 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+            I specialize in building modern, scalable web applications with a
+            focus on delivering exceptional user experiences. Let's create
+            something amazing together!
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>
       </div>
       <div className="hero--section--img">
-        <img src="./img/sanele.png" alt="Hero Section" style={{ borderRadius:"20px" }} />
+        <img src="./img/sanele.png" alt="Hero Section" style={{ borderRadius: "20px" }} />
       </div>
     </section>
   );

@@ -44,5 +44,5 @@ export default function Testimonial() {
         ))}
       </div>
     </section>
-  );
+  )
 }

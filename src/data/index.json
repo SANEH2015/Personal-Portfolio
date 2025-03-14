@@ -4,7 +4,7 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "I specialize in crafting responsive and visually appealing user interfaces, ensuring seamless user experiences.",
       "languages": [
         {
           "name": "HTML",
@@ -18,21 +18,18 @@
           "name": "JavaScript",
           "icon": "./icons/javascript.png"
         }
-       
       ]
-    
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "I build robust and scalable server-side solutions to power modern web applications.",
       "languages": [
         {
           "name": "Node.js",
           "icon": "./icons/nodejs.png"
         },
-       
         {
           "name": "Java",
           "icon": "./icons/java.png"
@@ -41,21 +38,13 @@
           "name": "PHP",
           "icon": "./icons/php.png"
         }
-      
-       
-       
-       
-   
-      
-      
       ]
-      
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "I create intuitive designs that blend aesthetics and functionality to deliver exceptional user experiences.",
       "tools": [
         {
           "name": "Figma",
@@ -83,7 +72,7 @@
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I leverage Webflow to create responsive, professional websites without compromising on design quality."
     }
   ],
   "portfolio": [
@@ -91,22 +80,21 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Recipe App",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "A feature-rich app for managing and sharing recipes with a user-friendly interface.",
       "link": "View In Github"
-      
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "Todo List App",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "A simple yet powerful task management app to help you stay organized and productive.",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Employees App",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "A comprehensive solution for managing employee records and tracking performance efficiently.",
       "link": "View In Github"
     }
   ],
@@ -115,7 +103,7 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Working with Sanele was a pleasure! Their attention to detail and commitment to quality are unmatched.",
       "author_name": "Dianne Russel",
       "author_designation": "Starbucks"
     },
@@ -123,7 +111,7 @@
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Sanele's expertise and professionalism exceeded my expectations. Highly recommend!",
       "author_name": "Kristin Watson",
       "author_designation": "Louis Vuitton"
     },
@@ -131,7 +119,7 @@
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Sanele delivered exceptional results on our project. Their creativity and skill are truly impressive.",
       "author_name": "Kathryn Murphy",
       "author_designation": "McDonald's"
     }

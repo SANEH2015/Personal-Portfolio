@@ -29,5 +29,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint-plugin-testing-library": "^7.1.1"
+  },
+  "eslintConfig": {
+    "plugins": [
+      "testing-library"
+    ],
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
   }
 }
